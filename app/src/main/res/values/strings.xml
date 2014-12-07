@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chat</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- LOGIN ACTIVITY -->
+    <string name="title_activity_login">Authentication</string>
+    <string name="login_hint">Login</string>
+    <string name="login">test1@test.fr</string>
+    <string name="password_hint">Password</string>
+    <string name="password">test</string>
+    <string name="login_action">LOGIN</string>
+
+    <!-- MESSAGE LIST ACTIVITY -->
+    <string name="new_message_hint">Your message...</string>
+    <string name="action_refresh_messages">Refresh</string>
+
+</resources>
